@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #1e1e2f;
+  background: #ff00aa;
 
   display: flex;
   justify-content: center;
@@ -15,10 +15,11 @@ body {
   padding: 30px;
   border-radius: 10px;
   text-align: center;
+  box-shadow: #00ff15 15px 15px 15px;
 }
 
 button {
-  background: #6c63ff;
+  background: #ff0000;
   color: white;
   border: none;
   padding: 10px 20px;
